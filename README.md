@@ -1,17 +1,19 @@
 
 ![6E043A92-7629-4284-BE0E-E79408027B66_4_5005_c](https://github.com/user-attachments/assets/bd7d5dc2-375f-4304-a43c-0200fadbc9d9)
+![E945F3CD-02B3-468B-9FBA-E66C17CBE28E_4_5005_c](https://github.com/user-attachments/assets/2b1f9cff-d7f3-4c5c-be32-e39b91664078)
+
 
 ## About Me 👋
 
-
 ### I am Michaela Robinson, a senior Data Science major attending Fisk University. I am an aspiring data analyst within the Public Health sector.
-### Projects
-1. [Predictiing Global Temperature Anomalies](https://github.com/michaelaprobinson/ms-cc-internship)
+### 🌱 Projects
+1. [Predicting Global Temperature Anomalies](https://github.com/michaelaprobinson/ms-cc-internship)
 2. [Student Engagement Hub](https://github.com/michaelaprobinson/MC-student-enagement-hub)
+3. Phenotyping AUD using Regex (will be adding soon) 
 
-### Contact Information
-#### Email: michaelarob07@gmail.com
-#### LinkedIn: [Michaela Robinson](www.linkedin.com/in/michaela-robinson-533814218)
+### 💬Contact Information
+#### 📫 Email: michaelarob07@gmail.com
+#### 😄 LinkedIn: [Michaela Robinson](www.linkedin.com/in/michaela-robinson-533814218)
 
 
 
