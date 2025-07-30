@@ -1,4 +1,9 @@
+
+![6E043A92-7629-4284-BE0E-E79408027B66_4_5005_c](https://github.com/user-attachments/assets/bd7d5dc2-375f-4304-a43c-0200fadbc9d9)
+
 ## About Me 👋
+
+
 ### I am Michaela Robinson, a senior Data Science major attending Fisk University. I am an aspiring data analyst with the Public Health sector.
 ### Projects
 1. [Predictiing Global Temperature Anomalies](https://github.com/michaelaprobinson/ms-cc-internship)
