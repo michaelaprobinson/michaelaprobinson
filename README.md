@@ -12,7 +12,7 @@
 
 ### 💬Contact Information
 #### 📫 Email: michaelarob07@gmail.com
-#### 😄 LinkedIn: [Michaela Robinson](www.linkedin.com/in/michaela-robinson-533814218)
+#### 😄 LinkedIn: [Michaela Robinson](https://www.linkedin.com/in/michaelaprobinson/)
 
 
 
