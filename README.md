@@ -1,6 +1,5 @@
 
 ![6E043A92-7629-4284-BE0E-E79408027B66_4_5005_c](https://github.com/user-attachments/assets/bd7d5dc2-375f-4304-a43c-0200fadbc9d9)
-![E945F3CD-02B3-468B-9FBA-E66C17CBE28E_4_5005_c](https://github.com/user-attachments/assets/2b1f9cff-d7f3-4c5c-be32-e39b91664078)
 
 
 ## About Me 👋
