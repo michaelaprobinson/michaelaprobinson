@@ -6,7 +6,7 @@
 
 ### I am Michaela Robinson, a senior Data Science major attending Fisk University. I am an aspiring data analyst within the Public Health sector.
 ### 🌱 Projects
-1. [Predicting Global Temperature Anomalies](https://github.com/michaelaprobinson/ms-cc-internship)
+1. [Invisible Carbon Calculator](https://github.com/michaelaprobinson/Invisible_Carbon_Calculator)
 2. [Student Engagement Hub](https://github.com/michaelaprobinson/MC-student-enagement-hub)
 3. [Phenotyping AUD using Regex](https://github.com/michaelaprobinson/AUDRegex)
 
