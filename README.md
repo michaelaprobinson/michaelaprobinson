@@ -8,7 +8,7 @@
 ### 🌱 Projects
 1. [Predicting Global Temperature Anomalies](https://github.com/michaelaprobinson/ms-cc-internship)
 2. [Student Engagement Hub](https://github.com/michaelaprobinson/MC-student-enagement-hub)
-3. Phenotyping AUD using Regex (will be adding soon) 
+3. [Phenotyping AUD using Regex](https://github.com/michaelaprobinson/AUDRegex)
 
 ### 💬Contact Information
 #### 📫 Email: michaelarob07@gmail.com
