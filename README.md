@@ -11,7 +11,7 @@
 3. [Phenotyping AUD using Regex](https://github.com/michaelaprobinson/AUDRegex)
 4. [Analysing Abortion Opinions](https://github.com/michaelaprobinson/Abortion_Opinion_USA)
 5. [From Temperature Anomalies to El Nino](https://github.com/michaelaprobinson/Predicting-El-Nino)
-6. [Music Trend Database](https://github.com/michaelaprobinson/Music-Trend_Database)
+6. [Music Trend Database](https://github.com/michaelaprobinson/Music-Trend-Database)
 
 ### 💬Contact Information
 #### 📫 Email: michaelarob07@gmail.com
